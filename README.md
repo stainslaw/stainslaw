@@ -1,4 +1,4 @@
-Hello, I’m @stainslaw. I'm an aspiring web developer aiming to specialise in HTML, CSS3 and Java Script.
+Hello, I’m @stainslaw. I'm an aspiring front-end web developer learning HTML5, CSS3 and JavaScript.
 
 <!---
 stainslaw/stainslaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
